@@ -1,0 +1,19 @@
+uikit-base:
+  version: VERSION
+  css:
+    theme:
+      uikit-2.27.2/css/uikit.css: {}
+  js:
+    uikit-2.27.2/js/uikit.js: {}
+  dependencies:
+    - core/jquery
+
+uikit-custom:
+  css:
+    theme:
+      css/styles.css: {}
+
+google_fonts:
+  css:
+    theme:
+      https://fonts.googleapis.com/css?family=Cabin:400,500,700|Quicksand:400,500,700: { type: external, attributes: { async: true } }
