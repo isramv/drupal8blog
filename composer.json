@@ -23,10 +23,7 @@
         "drush/drush": "~8.0",
         "drupal/console": "~1.0",
         "drupal/devel": "^1.0@RC",
-        "drupal/jsonapi": "^1.0@alpha",
-        "drupal/cors": "^1.0",
         "drupal/pathauto": "^1.0@RC",
-        "drupal/search_kint": "^1.0",
         "drupal/ckeditor_markdown": "^1.0",
         "drupal/disqus": "^1.0@RC",
         "drupal/metatag": "^1.0"
